@@ -11,7 +11,7 @@ body{
 h2{
     font-size: 5rem;
     font-weight: bold;
-    padding: 3rem;
+    padding: 2rem;
 }
 
 span{
@@ -34,6 +34,8 @@ span{
     display: flex;
     justify-content: space-around;
     text-align: center;
+    background-color: #FFFFDE;
+    border-radius: 10px;
 }
 
 .day,
@@ -44,4 +46,5 @@ span{
 }
 .waiting{
     height: 50vh;
+    padding: 2rem;
 }
