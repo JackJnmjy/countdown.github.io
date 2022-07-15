@@ -1,7 +1,7 @@
 const countdown = () => {
 
     //set the date we're counting down to
-    const countDate = new Date('July 16, 2025 12:38:00').getTime();
+    const countDate = new Date('October 15, 2025 23:05:00').getTime();
 
     //get today's date and time
     const now = new Date().getTime();
