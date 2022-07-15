@@ -48,3 +48,18 @@ span{
     height: 50vh;
     padding: 2rem;
 }
+
+@media screen and (max-width: 1080px) {
+    h2{
+        font-size: 2rem;
+        font-weight: bold;
+        padding: 2rem;
+    }
+    .waiting{
+        height: 40vh;
+        padding: 4rem;
+    }
+    h3{
+        font-size: 0.8rem;
+    }
+}
